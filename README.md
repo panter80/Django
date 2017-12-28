@@ -21,3 +21,13 @@
   "drama": "https://123.campfirenow.com/images/drama.jpg",
   "vuvuzela": "======<() ~ ♪ ~♫"
 }
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+[![<img src="django5.jpg" alt="texto 2" width="50" height="50">]((https://www.youtube.com/watch?v=_CA5kgWkA-Y)
