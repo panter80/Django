@@ -6,21 +6,6 @@
 <img src="django3.jpg" alt="texto 2" width="200" height="200">
 <img src="django4.jpg" alt="texto 2" width="200" height="200">
 [WikiLink](https://es.wikipedia.org/wiki/Shar_Pei).
-{
-  "tada": "plays a fanfare :flags:",
-  "nyan": "https://123.campfirenow.com/images/nyan.gif",
-  "tmyk": ":sparkles: :star: The More You Know :sparkles: :star:",
-  "rimshot": "plays a rimshot",
-  "trombone": "plays a sad trombone",
-  "crickets": "hears crickets chirping",
-  "live": "is DOING IT LIVE",
-  "greatjob": "https://123.campfirenow.com/images/greatjob.png",
-  "yeah": "https://123.campfirenow.com/images/yeah.gif",
-  "secret": "found a secret area :key:",
-  "pushit": "https://123.campfirenow.com/images/pushit.gif",
-  "drama": "https://123.campfirenow.com/images/drama.jpg",
-  "vuvuzela": "======<() ~ ♪ ~♫"
-}
 
 <dl>
   <dt>Definition list</dt>
@@ -34,6 +19,11 @@
 
 <img src="django8.jpg" width="50" height="50"><img height="350" hspace="20"/><img src="django6.jpg" width="50" height="50"" width="425"/>
 
+<p float="left">
+  <img src="django6.jpg" width="100" />
+  <img src="django10.jpg" width="100" /> 
+  <img src="django11.jpg" width="100" />
+</p>
 
 $img_canvas = Image::canvas(200, 200);
 $img_canvas->fill(Image::make('<img src="django7.jpg" alt="texto 2" width="100" height="100">'), 0, 0);
