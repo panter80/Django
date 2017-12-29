@@ -14,15 +14,17 @@
 
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+  <dt>Vídeo de Sharpei</dt>
+  <dd><a href="https://www.youtube.com/watch?v=_CA5kgWkA-Y" target="_blank"><img src="django5.jpg" width="100" height="100"></a>
+<img src="django8.jpg" width="50" height="50"><br><img src="django6.jpg" width="50" height="50"></dd>
 </dl>
 
-[![<img src="django5.jpg" alt="texto 2" width="50" height="50">]((https://www.youtube.com/watch?v=_CA5kgWkA-Y)
-
-<img src="django8.jpg" width="50" height="50"><img height="50" hspace="20"/><img src="django6.jpg" width="50" height="50">
-
+<!--<a href="https://www.youtube.com/watch?v=_CA5kgWkA-Y" target="_blank"><img src="django5.jpg" width="100" height="100"></a>
+<img src="django8.jpg" width="50" height="50"><br><img src="django6.jpg" width="50" height="50">
+-->
 <p float="left">
   <img src="django6.jpg" width="100" />
-  <img src="django10.jpg" width="100" /> 
+  <img src="django9.jpg" width="100" /> 
   <img src="django11.jpg" width="100" />
 </p>
 #############
