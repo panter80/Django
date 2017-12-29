@@ -25,9 +25,3 @@
   <img src="django11.jpg" width="100" />
 </p>
 
-$img_canvas = Image::canvas(200, 200);
-$img_canvas->fill(Image::make('<img src="django7.jpg" alt="texto 2" width="100" height="100">'), 0, 0);
-$img_canvas->fill(Image::make('<img src="django8.jpg" alt="texto 2" width="100" height="100">'), 100, 0); // add offset
-$img_canvas->fill(Image::make('<img src="django9.jpg" alt="texto 2" width="100" height="100">'), 0, 100);
-$img_canvas->fill(Image::make('<img src="django10.jpg" alt="texto 2" width="100" height="100">'), 100, 100);
-$img_canvas->save('img/canvas.png', 100);
