@@ -14,6 +14,6 @@
 
   |Funny|Sharpei|Videos|
   |---|---|---|
-  |<a href="https://www.youtube.com/watch?v=_CA5kgWkA-Y&t=10s" target="_blank"><img src="django5.jpg" width="200" height="133"/></a>| <a href="https://www.youtube.com/watch?v=AU_mWwDTbfw&t=4s" target="_blank"><img src="django8.jpg" width="200" height="133"/></a>| <img src="django6.jpg" width="200" height="133" />|
-  |<img src="django6.jpg" width="200" height="133" />|  <img src="django9.jpg" width="200" height="133" /> |  <img src="django11.jpg" width="200" height="133" />|
+  |<a href="https://www.youtube.com/watch?v=_CA5kgWkA-Y&t=10s" target="_blank"><img src="django5.jpg" width="200" height="133"/></a>| <a href="https://www.youtube.com/watch?v=AU_mWwDTbfw&t=4s" target="_blank"><img src="django8.jpg" width="200" height="133"/></a>|<a href="https://www.youtube.com/watch?v=vCvAAXhuk5M"><img src="django6.jpg" width="200" height="133" /></a>|
+  |<a href="https://www.youtube.com/watch?v=tsCteL58HvE&t=99s"><img src="django6.jpg" width="200" height="133" /></a>|<a href="https://www.youtube.com/watch?v=lRLyEothGE0"><img src="django9.jpg" width="200" height="133" /></a>|<a href="https://www.youtube.com/watch?v=porOa6RoQJU"><img src="django11.jpg" width="200" height="133" /></a>|
 <img title="I like dogs!" src="http://octodex.github.com/images/stormtroopocat.jpg" width="10%" >
