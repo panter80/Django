@@ -17,7 +17,7 @@
 
 [![<img src="django5.jpg" alt="texto 2" width="50" height="50">]((https://www.youtube.com/watch?v=_CA5kgWkA-Y)
 
-<img src="django8.jpg" width="50" height="50"><img height="350" hspace="20"/><img src="django6.jpg" width="50" height="50"" width="425"/>
+<img src="django8.jpg" width="50" height="50"><img height="50" hspace="20"/><img src="django6.jpg" width="50" height="50">
 
 <p float="left">
   <img src="django6.jpg" width="100" />
