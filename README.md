@@ -15,6 +15,6 @@
 |---|---|---|
 |<img src="django6.jpg" width="100" />|  <img src="django9.jpg" width="100" /> |  <img src="django11.jpg" width="100" />|
 
-<img src="http://octodex.github.com/images/stormtroopocat.jpg" width="25%">
+<img src="http://octodex.github.com/images/stormtroopocat.jpg" width="10%">
 
 
