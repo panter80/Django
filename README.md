@@ -31,3 +31,13 @@
 </dl>
 
 [![<img src="django5.jpg" alt="texto 2" width="50" height="50">]((https://www.youtube.com/watch?v=_CA5kgWkA-Y)
+
+<img src="django8.jpg" width="50" height="50"><img height="350" hspace="20"/><img src="django6.jpg" width="50" height="50"" width="425"/>
+
+
+$img_canvas = Image::canvas(200, 200);
+$img_canvas->fill(Image::make('<img src="django7.jpg" alt="texto 2" width="100" height="100">'), 0, 0);
+$img_canvas->fill(Image::make('<img src="django8.jpg" alt="texto 2" width="100" height="100">'), 100, 0); // add offset
+$img_canvas->fill(Image::make('<img src="django9.jpg" alt="texto 2" width="100" height="100">'), 0, 100);
+$img_canvas->fill(Image::make('<img src="django10.jpg" alt="texto 2" width="100" height="100">'), 100, 100);
+$img_canvas->save('img/canvas.png', 100);
