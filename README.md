@@ -1,4 +1,3 @@
-
 ### Bienvenidos a la vida de un perro de pliegues!
 # **Django**
 ## Sharpei americano nacido en Tomares hace cuatro años con mucho pelo negro
@@ -16,4 +15,6 @@
 |---|---|---|
 |<img src="django6.jpg" width="100" />|  <img src="django9.jpg" width="100" /> |  <img src="django11.jpg" width="100" />|
 
-![Alt text](http://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+<img src="http://octodex.github.com/images/stormtroopocat.jpg" width="25%">
+
+
